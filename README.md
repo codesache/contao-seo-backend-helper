@@ -3,6 +3,7 @@
 !!! Die nächsten Tage erscheint die Erweiterung hier. Bis dahin kann sie im ER geladen werden.
 !!! https://contao.org/de/erweiterungsliste/find/seo-backend-helper.html !!!
 
+13.09.2018 - Test
 
 SEO Backend Helper um die Anzahl der Zeichen bei Titel und Beschreibung mit zu zählen. 
 
